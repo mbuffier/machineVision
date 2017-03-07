@@ -1,7 +1,7 @@
 # Machine Vision
 Machine vision algorithms
 
-# Segmentation using a mixture of gaussian 
+# Segmentation using a mixture of gaussians
 Implementation of a segmentation algorithm which trains a mixture of gaussian to detect apples
 Some ameliorations are made using a gabor filter and images in hvs color domain
 
